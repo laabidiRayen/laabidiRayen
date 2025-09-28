@@ -12,7 +12,7 @@
 
 <br/>
 <p align="center">
-  Hi, I'm Rayen LAABIDI 👋  
+  Hi, I'm Rayen Laabidi 👋  
   <br><br>
   🎓 Business Administration student at TBS, specializing in IT and Business Analytics  
   <br>
@@ -34,12 +34,19 @@
 
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/rayen-laabidi-a85226177/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/abidirayen22/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://github.com/laabidiRayen" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a></code>
+  <a href="https://www.linkedin.com/in/rayen-laabidi-a85226177/" target="_blank" title="LinkedIn Profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.instagram.com/abidirayen22/" target="_blank" title="Instagram Profile">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" style="margin-right: 15px;" />
+  </a>
+  <a href="https://github.com/laabidiRayen" target="_blank" title="GitHub Profile">
+    <img src="https://skillicons.dev/icons?i=github" height="35" />
+  </a>
 </h5>
+
+
+
 
 
 <br>
@@ -50,66 +57,65 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+
+  <!-- Row 2: Tools, DBs & Cybersecurity -->
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,kali,firebase,mongodb,c,docker,git,github" 
+       height="60" style="margin: 12px;" 
+       title="MySQL / VSCode / Kali / Firebase / MongoDB / C / Docker / Git / GitHub" />
+       
   <!-- Row 1: Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,flask,java,kotlin,r" 
        height="60" style="margin: 12px;" 
        title="HTML / CSS / JS / TS / React / Node.js / Python / Flask / Java / Kotlin / R" /><br>
 
-  <!-- Row 2: Tools, DBs & Cybersecurity -->
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,kali,firebase,mongodb,c,docker,json,figma,git,github" 
-       height="60" style="margin: 12px;" 
-       title="MySQL / VSCode / Kali / Firebase / MongoDB / C / Docker / eclipse / Figma / Git / GitHub" />
+  
 </div>
 <hr>
+
 
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-laabidiRayen.vercel.app/?user=laabidiRayen&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-laabidiRayen.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-laabidiRayen.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <!-- Streak stats -->
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=laabidiRayen&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
+  
+  <!-- General stats -->
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  
+  <!-- Top languages -->
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
+<br>
 
-<br/><br/>
-
+<!-- Contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laabidiRayen&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <hr/>
 
 
-  
-  <div align=center>
-    <a href="https://github.com/laabidiRayen/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laabidiRayen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laabidiRayen&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/laabidiRayen/FPA-in-comparaison-with-GA-and-SA" title="FPA-in-comparaison-with-GA-and-SA
-"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=FPA-in-comparaison-with-GA-and-SA
-&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/laabidiRayen/port-goulette" title="Restful API integration"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=port-goulette
-&theme=react&border_color=61dafb&border_radius=10"></a>
+<br/>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/laabidiRayen/FPA-in-comparaison-with-GA-and-SA" title="FPA-in-comparaison-with-GA-and-SA">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=FPA-in-comparaison-with-GA-and-SA&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+
+  <a href="https://github.com/laabidiRayen/port-goulette" title="Restful API integration">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=port-goulette&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+
+  <a href="https://github.com/laabidiRayen/B_Intelligence_project" title="BI project">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=B_Intelligence_project&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+
+  <a href="https://github.com/laabidiRayen/EcommerceMobileApp" title="EcommerceMobileApp">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=EcommerceMobileApp&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/laabidiRayen/B_Intelligence_project" title="BI project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=B_Intelligence_project
-&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/laabidiRayen/EcommerceMobileApp" title="EcommerceMobileApp
-"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=EcommerceMobileApp
-&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+
 
 
 <h4 align="center">
