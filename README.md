@@ -79,14 +79,14 @@
 <br>
 <div align="center">
   <!-- Streak stats -->
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=laabidiRayen&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
+  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=laabidiRayen&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
   
   <!-- General stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
   <br/><br/>
   
   <!-- Top languages -->
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 <br>
 
