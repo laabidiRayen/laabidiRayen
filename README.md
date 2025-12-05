@@ -81,7 +81,7 @@
 
   <!-- 🔥 Streak stats -->
   <img height="150" 
-       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/streak?user=laabidiRayen&theme=react&border_radius=10" 
+       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/streak-stats?user=laabidiRayen&theme=react&border_radius=10" 
        alt="GitHub Streak Stats" 
   />
 
