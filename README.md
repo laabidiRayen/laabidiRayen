@@ -79,27 +79,26 @@
 <br>
 <div align="center">
 
-  <!-- 🔥 Streak stats -->
+  <!-- Streak stats -->
   <img height="150" 
-       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/streak-stats?user=laabidiRayen&theme=react&border_radius=10" 
-       alt="GitHub Streak Stats" 
-  />
+       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/streak?user=laabidiRayen&theme=react&border_radius=10&count_private=true"
+       alt="GitHub Streak Stats" />
 
-  <!-- 📊 General stats -->
+  <!-- General stats -->
   <img height="150" 
-       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&border_radius=10" 
-       alt="GitHub Stats" 
-  />
+       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&border_radius=10"
+       alt="GitHub Stats" />
+  
   <br/><br/>
 
-  <!-- 🧠 Top languages -->
+  <!-- Top languages -->
   <img width="350" 
-       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" 
-       alt="Top Languages" 
-  />
+       src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"
+       alt="Top Languages" />
 
 </div>
 <br>
+
 
 
 <!-- Contribution graph -->
