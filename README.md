@@ -78,16 +78,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <!-- Streak stats (use same heroku or try alternative mirror) -->
-  <img height="150" src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/streak?user=laabidiRayen&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
-  
-  <!-- General stats (self-hosted) -->
-  <img height="150" src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/api?username=laabidiRayen&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  
-  <!-- Top languages (self-hosted) -->
-  <img width="350" src="https://laabidi-github-stats-bofnwwa3v-laabidirayens-projects.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stat-rust.vercel.app?user=laabidiRayen&theme=radical" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <!-- Top Languages Stats (self-hosted Vercel) -->
+  <img width="350" src="https://laabidi-github-stats.vercel.app/api/top-langs/?username=laabidiRayen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
+
 
 
 
@@ -100,25 +99,23 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br/>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/laabidiRayen/FPA-in-comparaison-with-GA-and-SA" title="FPA-in-comparaison-with-GA-and-SA">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=FPA-in-comparaison-with-GA-and-SA&theme=react&border_color=61dafb&border_radius=10" />
+    <img height="140" src="https://laabidi-github-stats.vercel.app/api/pin/?username=laabidiRayen&repo=FPA-in-comparaison-with-GA-and-SA&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 
   <a href="https://github.com/laabidiRayen/port-goulette" title="Restful API integration">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=port-goulette&theme=react&border_color=61dafb&border_radius=10" />
+    <img height="140" src="https://laabidi-github-stats.vercel.app/api/pin/?username=laabidiRayen&repo=port-goulette&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 
   <a href="https://github.com/laabidiRayen/B_Intelligence_project" title="BI project">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=B_Intelligence_project&theme=react&border_color=61dafb&border_radius=10" />
+    <img height="140" src="https://laabidi-github-stats.vercel.app/api/pin/?username=laabidiRayen&repo=B_Intelligence_project&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 
   <a href="https://github.com/laabidiRayen/EcommerceMobileApp" title="EcommerceMobileApp">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=laabidiRayen&repo=EcommerceMobileApp&theme=react&border_color=61dafb&border_radius=10" />
+    <img height="140" src="https://laabidi-github-stats.vercel.app/api/pin/?username=laabidiRayen&repo=EcommerceMobileApp&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
-
 
 
 <h4 align="center">
